@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "789178590741",
+    "firebase_url": "https://semovi-91bfe.firebaseio.com",
+    "project_id": "semovi-91bfe",
+    "storage_bucket": "semovi-91bfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789178590741:android:57737e690ed1bd282f901c",
+        "android_client_info": {
+          "package_name": "com.galileoguzman.semovi06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789178590741-pj625inm18iriv36i8cqie46cbj25avj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAmKZ2L_3A9wMrz-ahwbXbpoQQ4Qnzjyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789178590741-pj625inm18iriv36i8cqie46cbj25avj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
